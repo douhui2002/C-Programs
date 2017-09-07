@@ -1,5 +1,5 @@
 int increment(int a)
 {
-	a=a+1;
+	a=a+2;
 	return a;
 }
